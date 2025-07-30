@@ -12,7 +12,7 @@ export default function Introduction() {
           {/* name */}
           <div className="flex flex-col-reverse xl:flex-row mt-4 xl:mt-6">
             <span className="mx-auto xl:absolute xl:left-0 xl:top-75 mt-1 xl:mt-0 bg-primary w-24 xl:w-46 h-1 rounded"></span>
-            <span className="xl:ml-10 flex justify-center">I'm Haroon</span>
+            <span className="xl:ml-10 flex justify-center">I`m Haroon</span>
           </div>
           {/* job decription */}
           <div className="mt-4 xl:mt-6 font-bold text-5xl">
