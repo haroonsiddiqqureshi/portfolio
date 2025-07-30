@@ -2,10 +2,12 @@
 @theme inline {
   --color-primary: oklch(0.72 0.11 178);
   --color-text: #ffffff;
+  --color-background: #101722;
+  --color-secondary: #17232d;
 }
 
 body {
-  background-color: #101722;;
+  background-color: #101722;
   font-family: 'Inter', sans-serif;
 }
 

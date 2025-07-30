@@ -1,12 +1,13 @@
 export default function Navbar() {
   return (
-    <nav class="flex justify-between text-text items-center mx-30 mt-6">
-      <p class="min-w-200">Haroon Siddiq Qureshi</p>
-      <ul class="flex space-x-8">
-        <li><a href="#home">Home</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#services">Education</a></li>
+    <nav class="hidden xl:flex justify-between text-text items-center mx-4 lg:mx-30 mt-6 font-semibold">
+      <p>Haroon Siddiq Qureshi</p>
+      <ul class="flex space-x-4">
+        <li>Portfolio</li>
+        <span class="w-0.5 bg-primary"></span>
+        <li>Internships</li>
+        <span class="w-0.5 bg-primary"></span>
+        <li>Khon Kean University</li>
       </ul>
     </nav>
   );
