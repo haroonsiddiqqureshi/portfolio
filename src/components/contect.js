@@ -1,7 +1,7 @@
 export default function Contect() {
   return (
-    <section className="text-text bg-secondary">
-      <div className="flex flex-row lg:flex-col lg:mx-30 mt-14 gap-20 lg:gap-4 opacity-30 py-10 justify-center">
+    <section className="text-text bg-secondary min-h-screen">
+      <div className="flex flex-row lg:flex-col lg:mx-30 mt-14 gap-20 lg:gap-4 opacity-30 pt-10 justify-center">
         <div className="flex flex-col">
           <span className="text-2xl font-bold">Contect</span>
           <div className="flex flex-col mt-4 ml-4 space-y-2">

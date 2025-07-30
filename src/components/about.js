@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section className="mx-30 text-text" id="about">
+    <section className="mx-30 text-text">
       <div className="flex flex-col mt-14 lg:mt-18">
         <div className="flex flex-col lg:flex-row lg:gap-20 justify-between mx-auto lg:mx-0">
           {/* left panel */}
