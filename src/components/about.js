@@ -26,8 +26,8 @@ export default function About() {
                 Website Development
               </span>
             </div>
-            {/* dash */}
-            <span className="bg-primary w-2 lg:w-1 h-1 lg:h-2 rounded"></span>
+            {/* dot */}
+            <span className="bg-primary w-1 h-1 rounded"></span>
             {/* mobiledev */}
             <div className="flex flex-col lg:flex-row items-center justify-start max-w-30 lg:max-w-none">
               <span className="bg-primary w-full lg:w-1 h-1 lg:h-16 rounded mb-5 lg:mb-0 lg:mr-10"></span>

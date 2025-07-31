@@ -19,13 +19,3 @@ body {
     opacity: 25%;
     position: absolute;
 }
-
-.left {
-    top: 15px;
-    left: -50px;
-}
-
-.right {
-    bottom: 15px;
-    right: -50px;
-}

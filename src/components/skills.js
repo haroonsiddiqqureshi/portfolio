@@ -15,7 +15,7 @@ const skills = [
 
 export default function Skills() {
   return (
-    <section className="flex justify-center w-full h-20 bg-secondary z-20">
+    <section className="relative flex justify-center w-full h-20 bg-secondary z-40">
       <Marquee className="mx-30" speed={100} aria-label="Skills Marquee">
         <ul
           className="flex space-x-12 lg:space-x-24 2xl:space-x-36 text-text text-base lg:text-xl 2xl:text-2xl font-bold"
